@@ -13,7 +13,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <img src={{chop}} />
+      <img src={chop} />
     </div>
   </Layout>
 )
