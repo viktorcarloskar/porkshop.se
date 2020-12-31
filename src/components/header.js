@@ -8,7 +8,6 @@ const Header = ({ siteTitle }) => (
       background: `none`,
     }}
   >
-    
   </div>
 )
 
